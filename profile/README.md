@@ -1,18 +1,18 @@
 <p align="center">
-    <img src="https://i.imgur.com/4W6eW0g.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+    <img src="https://i.imgur.com/SPtwWmz.jpg" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
-## About Analyse
+## About Tebex Analytics
 
-[Analyse](https://analyse.net) is the stress-free way to track your Minecraft server analytics. With no open ports or extra server memory needed and you can be up and running in 30 seconds!
+[Tebex Analytics](https://analytics.tebex.io) is the stress-free way to track your Minecraft server analytics. With no open ports or extra server memory needed and you can be up and running in 30 seconds!
 
 ## Packages
 
-- [Plugin](https://github.com/shopperlabs/framework) - Our official Minecraft plugin repository.
+- [Plugin](https://github.com/track/plugin) - Our official Minecraft plugin repository.
 
 ## Resources
 
-- [Official Site](https://analyse.net) — Learn everything about what Analyse is.
+- [Official Site](https://analyse.net) — Learn everything about what Tebex Analytics is.
 - [Full Documentation](https://analyse.net/docs) — Read our docs.
 - [Twitter](https://twitter.com/analyse) — Read our tweets.
 
