@@ -2,9 +2,9 @@
     <img src="https://i.imgur.com/SPtwWmz.jpg" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
-## About Tebex Analytics
+## About Analyse
 
-[Tebex Analytics](https://analytics.tebex.io) is the stress-free way to track your Minecraft server analytics. With no open ports or extra server memory needed and you can be up and running in 30 seconds!
+[Analyse](https://analytics.tebex.io) is the stress-free way to track your Minecraft server analytics. With no open ports or extra server memory needed and you can be up and running in 30 seconds!
 
 ## Packages
 
@@ -12,7 +12,7 @@
 
 ## Resources
 
-- [Official Site](https://analyse.net) — Learn everything about what Tebex Analytics is.
+- [Official Site](https://analyse.net) — Learn everything about what Analyse is.
 - [Full Documentation](https://analyse.net/docs) — Read our docs.
 - [Twitter](https://twitter.com/analyse) — Read our tweets.
 
