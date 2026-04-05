@@ -1,23 +1,27 @@
 <p align="center">
-    <img src="https://i.imgur.com/SPtwWmz.jpg" alt="Banner" style="width: 100%; max-width: 800px;" />
+  <img src="https://analyse.net/opengraph-image" alt="Analyse Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
 ## About Analyse
+[Analyse](https://analyse.net) is attribution analytics for Minecraft & Hytale servers. Track where your players come from, measure influencer ROI, and see what actually grows your server.
 
-[Analyse](https://analytics.tebex.io) is the stress-free way to track your Minecraft server analytics. With no open ports or extra server memory needed and you can be up and running in 30 seconds!
-
-## Packages
-
-- [Plugin](https://github.com/track/plugin) - Our official Minecraft plugin repository.
+## Features
+- Player source attribution & multi-touch tracking
+- Influencer & campaign ROI measurement
+- Revenue analytics with Tebex integration
+- A/B testing for game servers
+- Custom event tracking & funnel analytics
+- AI-powered data assistant
+- Custom dashboards
 
 ## Resources
-
-- [Official Site](https://analyse.net) — Learn everything about what Analyse is.
-- [Full Documentation](https://analyse.net/docs) — Read our docs.
-- [Twitter](https://twitter.com/analyse) — Read our tweets.
+- [Official Site](https://analyse.net) — Everything about Analyse.
+- [Documentation](https://analyse.net/docs) — Guides, SDK reference, and more.
+- [Downloads](https://analyse.net/downloads) — Get the plugin.
 
 ## Community
 
-If you're up for a chat or need help, you can join our [Discord community](https://analyse.net/discord)!
+Need help or want to chat? Join our [Discord](https://discord.gg/analyse).
 
-You can help with our open source efforts in many ways: by resolving [open issues](https://github.com/track/plugin/issues), [improving the docs](https://github.com/track/docs), blogging what you've learned, or tweeting something helful.
+## Company
+Analyse is built by [VertCode Development](https://vertcodedevelopment.com) in Athens, Greece.
